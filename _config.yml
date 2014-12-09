@@ -37,15 +37,16 @@ links:
     url: /
     external: false
     icon: home
-  - title: Featured Posts
-    url: /featured
-  - title: 
-    url: /
+  - title: Site
+    url: http://www.gpinterface.com.br/
+    external: true
+  - title: Outras publicações
+    url: /publicacoes
   - title: Sobre
     url: /sobre
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Dhaka
+timezone:    America/Argentina/San_Luis
 future:      true
 highlighter: pygments
 markdown:    kramdown
