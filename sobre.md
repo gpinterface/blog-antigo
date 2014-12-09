@@ -7,7 +7,7 @@ imagefeature: fourseasons.jpg
 chart: true
 ---
 <figure>
-  <img src="{{ site.url }}/images/hossain-faysal.jpg" alt="The Immortal">
+  <img src="{{ site.url }}/images/profile.png" alt="The Immortal">
   <figcaption><a href="http://www.nickgentry.com/the-immortal/" target="_blank">The Immortal, de Nick Gentry</a></figcaption>
 </figure>
 
