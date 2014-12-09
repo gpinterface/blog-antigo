@@ -1,21 +1,21 @@
 title:            Interface
 description:      "blog"
 logo:             logo.png
-disqus_shortname: hmfaysal
+disqus_shortname: 
 share:            true
 dropcap:			true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:        	  http://www.gpinterface.com.br/
+url:        	  http://www.gpinterface.com.br/blog/
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
-  avatar:         hmfaysal.jpg
+  name:           Interface
+  avatar:         
   email:          gpinterface@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Awesome Dude, Awesome Life
+  description:    Grupo Interdisciplinar de Pesquisa em Filosofia e Cultura IFB/CNPq
   # Social networking links used in footer. Update and remove as you like.
   twitter:        mrtollens
   facebook:       
@@ -71,8 +71,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://hmfaysal.github.io/Notepad/'
-  relativeLinks: 'http://hmfaysal.github.io/Notepad/links.jsonp'
+  siteurl: 'http://gpinterface.github.io/blog/'
+  relativeLinks: 'http://gpinterface.github.io/blog/links.jsonp'
   media: 'images'
   metadata:
     _posts:
