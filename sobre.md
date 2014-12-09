@@ -7,8 +7,8 @@ imagefeature: fourseasons.jpg
 chart: true
 ---
 <figure>
-  <img src="{{ site.url }}/images/hossain-faysal.jpg" alt="Hossain Mohammad Faysal">
-  <figcaption>([The Immortal](http://www.nickgentry.com/the-immortal/)), de [Nick Gentry](http://www.nickgentry.com)</figcaption>
+  <img src="{{ site.url }}/images/hossain-faysal.jpg" alt="The Immortal">
+  <figcaption><a href="http://www.nickgentry.com/the-immortal/" target="_blank">The Immortal, de Nick Gentry</a></figcaption>
 </figure>
 
 {% assign total_words = 0 %}
