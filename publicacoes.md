@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /sobre/index.html
+permalink: /publicacoes/index.html
 title: Outras publicações
 tags: [Interface, Pesquisa, Filosofia, Cultura]
 imagefeature: fourseasons.jpg
