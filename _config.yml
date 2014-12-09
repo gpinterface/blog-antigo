@@ -41,6 +41,8 @@ links:
     url: /publicacoes
   - title: Sobre
     url: /sobre
+  - title: Equipe
+    url: /equipe
   - title: Site
     url: http://www.gpinterface.com.br/
     external: true
