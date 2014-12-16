@@ -7,7 +7,7 @@ imagefeature: fourseasons.jpg
 chart: true
 ---
 
-###Pesquisadores:
+###Professores:
      
  - Cristiane Herres Terraza - [Currículo Lattes](http://lattes.cnpq.br/0750231114678276)
  - Juliana Rocha de Faria Silva - [Currículo Lattes](http://lattes.cnpq.br/9756128301689917)
